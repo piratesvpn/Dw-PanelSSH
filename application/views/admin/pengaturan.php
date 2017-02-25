@@ -413,10 +413,10 @@
                             <div class="col-lg-12 col-sm-9">
                               <select class="form-control" id="mata_uang" name="mata_uang" required="">
                                 <?php if ($record['mata_uang'] == "Rp") { ?>
-                                <option value="USD" selected>Usd</option>
+                                <option value="USD" selected>USD</option>
                                 <option value="RM">RM</option>
                                 <?php } else { ?>
-                                <option value="USD">Usd</option>
+                                <option value="USD">USD</option>
                                 <option value="RM" selected>RM</option>
                                 <?php } ?>
                               </select>
