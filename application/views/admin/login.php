@@ -67,7 +67,7 @@
 			<input type="password" name="password" placeholder="Password" required />
 			<button type="submit" name="submit">Login</button>
       <p> &nbsp; </p>
-      <p>Powered By <a href="http://makassarnetwork.info/">MakassarNetwork</a></p>
+      <p>Powered By <a href="https://piratesvpn.com">PIRATES</a></p>
 		<?php
 		echo form_close();
 
