@@ -107,7 +107,7 @@
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)" data-animation="slide-bottom"
             aria-expanded="false" role="button">
-              <span class="flag-icon flag-icon-id"></span>
+              <span class="flag-icon flag-icon-my"></span>
             </a>
           </li>
           <li class="dropdown">
@@ -200,7 +200,7 @@
                         <th>Host (IP Server)</th>
                         <th>Location (Data Center)</th>
                         <th>Price</th>
-                        <th>Max Account</th>
+                        <th>Max User</th>
                         <th class="text-nowrap">Action</th>
                       </tr>
                     </thead>
@@ -262,9 +262,9 @@
 
   <!-- Footer -->
   <footer class="site-footer">
-    <span class="site-footer-legal">© 2015 <?php echo $record['nama_perusahaan']; ?></span>
+    <span class="site-footer-legal">© 2017 <?php echo $record['nama_perusahaan']; ?></span>
     <div class="site-footer-right">
-      Powered By <a href="http://makassarnetwork.info">MakassarNetwork</a>
+      Powered By <a href="https://piratesvpn.com">PIRATES</a>
     </div>
   </footer>
 
