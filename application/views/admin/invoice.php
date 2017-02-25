@@ -107,8 +107,8 @@
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)" data-animation="slide-bottom"
             aria-expanded="false" role="button">
-              <span class="flag-icon flag-icon-id"></span>
-            </a>
+              <span class="flag-icon flag-icon-my"></span>
+              <span class="flag-icon flag-icon-sg"></span>            </a>
           </li>
           <li class="dropdown">
             <a class="navbar-avatar dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false"
@@ -274,9 +274,9 @@
 
   <!-- Footer -->
   <footer class="site-footer">
-    <span class="site-footer-legal">© 2015 <?php echo $record['nama_perusahaan']; ?></span>
+    <span class="site-footer-legal">© 2017 <?php echo $record['nama_perusahaan']; ?></span>
     <div class="site-footer-right">
-      Powered By <a href="http://makassarnetwork.info">MakassarNetwork</a>
+      Powered By <a href="https://piratesvpn.com">PIRATES</a>
     </div>
   </footer>
 
