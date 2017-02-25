@@ -115,7 +115,7 @@
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)" data-animation="slide-bottom"
             aria-expanded="false" role="button">
-              <span class="flag-icon flag-icon-id"></span>
+              <span class="flag-icon flag-icon-my"></span>
             </a>
           </li>
           <li class="dropdown">
@@ -188,14 +188,14 @@
                 <a class="avatar avatar-lg" href="javascript:void(0)">
                   <img src="<?php echo base_url('assets/admin/images/pengaturan.png'); ?>" alt="MakassarNetwork">
                 </a>
-                <div class="profile-user">MakassarNetwork</div>
-                <div class="profile-job">Web Development</div>
-                <p>Terima kasih telah menggunakan MakassarNetwork-Panel, Diharapkan partisipasinya baik berupa
-                saran ataupun kritikan untuk pengembangan MakassarNetwork-Panel. </p>
+                <div class="profile-user">Pirates Vpn_Ssh Network</div>
+                <div class="profile-job">Vpn And Ssh Service</div>
+                <p>Terima kasih telah menggunakan Pirates Vpn_Ssh-Panel, Diharapkan partisipasinya baik berupa
+                saran ataupun kritikan untuk pengembangan Vpn_Ssh-Panel. </p>
                 <div class="profile-social">
-                  <a class="icon bd-twitter" href="https://twitter.com/makassarnetwork"></a>
-                  <a class="icon bd-facebook" href="https://www.facebook.com/makassarnetwork"></a>
-                  <a class="icon bd-github" href="https://github.com/makassarnetwork"></a>
+                  <a class="icon bd-twitter" href="https://twitter.com/"></a>
+                  <a class="icon bd-facebook" href="https://www.facebook.com/"></a>
+                  <a class="icon bd-github" href="https://github.com/"></a>
                 </div>
                 <!--<button type="button" class="btn btn-primary">Follow</button>-->
               </div>
@@ -413,10 +413,10 @@
                             <div class="col-lg-12 col-sm-9">
                               <select class="form-control" id="mata_uang" name="mata_uang" required="">
                                 <?php if ($record['mata_uang'] == "Rp") { ?>
-                                <option value="Rp" selected>Rp</option>
+                                <option value="USD" selected>Usd</option>
                                 <option value="RM">RM</option>
                                 <?php } else { ?>
-                                <option value="Rp">Rp</option>
+                                <option value="USD">Usd</option>
                                 <option value="RM" selected>RM</option>
                                 <?php } ?>
                               </select>
@@ -447,9 +447,9 @@
 
   <!-- Footer -->
   <footer class="site-footer">
-    <span class="site-footer-legal">© 2015 <?php echo $record['nama_perusahaan']; ?></span>
+    <span class="site-footer-legal">© 2017 <?php echo $record['nama_perusahaan']; ?></span>
     <div class="site-footer-right">
-      Powered By <a href="http://makassarnetwork.info/">MakassarNetwork</a>
+      Powered By <a href="ttps://piratesvpn.com/">PIRATESBHAI</a>
     </div>
   </footer>
 
