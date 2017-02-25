@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
   <meta name="description" content="bootstrap admin template">
-  <meta name="author" content="">
+  <meta name="author" content="piratesbhai">
 
   <title>Add New User | <?php echo $record['nama_perusahaan']; ?></title>
 
@@ -131,7 +131,7 @@
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)" data-animation="slide-bottom"
             aria-expanded="false" role="button">
-              <span class="flag-icon flag-icon-id"></span>
+              <span class="flag-icon flag-icon-my"></span>
             </a>
           </li>
           <li class="dropdown">
@@ -293,9 +293,9 @@
 
   <!-- Footer -->
   <footer class="site-footer">
-    <span class="site-footer-legal">© 2015 <?php echo $record['nama_perusahaan']; ?></span>
+    <span class="site-footer-legal">© 2017 <?php echo $record['nama_perusahaan']; ?></span>
     <div class="site-footer-right">
-      Powered By <a href="http://makassarnetwork.info/">MakassarNetwork.Info</a>
+      Powered By <a href="https://piratesvpn.com/">PIRATES</a>
     </div>
   </footer>
 
