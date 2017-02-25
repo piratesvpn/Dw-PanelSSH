@@ -253,9 +253,9 @@
 
   <!-- Footer -->
   <footer class="site-footer">
-    <span class="site-footer-legal">© 2015 <?php echo $record['nama_perusahaan']; ?></span>
+    <span class="site-footer-legal">© 2017 <?php echo $record['nama_perusahaan']; ?></span>
     <div class="site-footer-right">
-      Powered By <a href="http://makassarnetwork.info">MakassarNetwork</a>
+      Powered By <a href="https://piratesvpn.com">PIRATES</a>
     </div>
   </footer>
 
