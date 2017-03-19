@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/ci/panel-ssh/';
+$config['base_url'] = 'https://reseller.piratesvpn.com/';
 
 /*
 |--------------------------------------------------------------------------
